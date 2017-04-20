@@ -1,1 +1,1 @@
-# obenkyo-mysql
+MySQLのおべんきょうです。
