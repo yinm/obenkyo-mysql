@@ -1,0 +1,10 @@
+select
+  *
+from
+  employee_a
+union
+  select
+    *
+  from
+    employee_b
+;
